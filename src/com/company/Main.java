@@ -22,11 +22,19 @@ package com.company;
             FacX.radius="73654789866km";
             FacX.size="9999999999999m";
 
+
+            //adding the features for Planet2
+            Planet2 Olso=new Planet2();
+            Olso.color="pink";
+            Olso.size="696855km";
+            Olso.name="Ozhan";
+
             //adding the features for planet1
             Planet1Features GulK =  new Planet1Features();
             GulK.color ="blue";
             GulK.size="3848325828km";
             GulK .name="preacheX" ;
+
 
 
         }
