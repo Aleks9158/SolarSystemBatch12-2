@@ -22,6 +22,12 @@ package com.company;
             FacX.radius="73654789866km";
             FacX.size="9999999999999m";
 
+            //adding the features for planet1
+            Planet1Features GulK =  new Planet1Features();
+            GulK.color ="blue";
+            GulK.size="3848325828km";
+            GulK .name="preacheX" ;
+
 
         }
     }
